@@ -1,2 +1,2 @@
-# Portf-lio-de-Contribui-es-Sudene
+# Portfólio de Contribuições na Sudene
 Repositório com registro das minhas contribuições em produtos analíticos e publicações institucionais desenvolvidos na Superintendência do Desenvolvimento do Nordeste (Sudene).
